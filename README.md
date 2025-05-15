@@ -43,13 +43,13 @@
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/home.jpeg)
+<img src="https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/home.jpeg" alt="Home Page" width="600"/>
 
 ### 🛒 Cart Page
-![Cart Page]([assets/cart.png](https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/Cart.jpeg))
+<img src="https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/Cart.jpeg" alt="Cart Page" width="600"/>
 
-### 🔐 Order History
-![Login Page](https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/OrderHistory.jpeg)
+### 📜 Order History
+<img src="https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/OrderHistory.jpeg" alt="Order History" width="600"/>
 
-### 👨‍🍳 Admin Dashboard
-![Admin Dashboard](https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/adminPannel.jpeg)
+### 🛠️ Admin Dashboard
+<img src="https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/adminPannel.jpeg" alt="Admin Dashboard" width="600"/>
