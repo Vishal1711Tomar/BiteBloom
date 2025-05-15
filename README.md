@@ -43,13 +43,13 @@
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](assets/home)
+![Home Page](https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/home.jpeg)
 
 ### 🛒 Cart Page
-![Cart Page](assets/cart.png)
+![Cart Page]([assets/cart.png](https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/Cart.jpeg))
 
-### 🔐 Login Page
-![Login Page](assets/login.png)
+### 🔐 Order History
+![Login Page](https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/OrderHistory.jpeg)
 
 ### 👨‍🍳 Admin Dashboard
-![Admin Dashboard](assets/admin-dashboard.png)
+![Admin Dashboard](https://github.com/Vishal1711Tomar/BiteBloom/blob/main/src/assets/adminPannel.jpeg)
